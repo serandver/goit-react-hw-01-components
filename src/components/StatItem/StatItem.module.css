@@ -1,0 +1,26 @@
+.item {
+  display: flex;
+  flex-direction: column;
+
+  width: calc((100%) / 3);
+  height: 80px;
+  margin-right: 0;
+  margin-bottom: 0;
+  border: 1px solid #e7ecf2;
+  background-color: #f3f6f9;
+}
+.label {
+  text-transform: capitalize;
+  text-align: center;
+  padding-top: 15px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+}
+.percentage {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+}

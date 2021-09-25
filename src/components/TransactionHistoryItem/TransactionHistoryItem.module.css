@@ -1,0 +1,10 @@
+.tableTr td {
+  text-align: center;
+  border: none;
+  padding: 10px 15px;
+  font-size: 14px;
+  vertical-align: top;
+}
+.tableTr:nth-child(odd) {
+  background: #d3d6d8;
+}
